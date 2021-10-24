@@ -1,0 +1,152 @@
+.menu a{
+    display:flow-root;
+    padding: 20px 20px;
+    color: white;
+    text-decoration: none;
+    float: right;
+    background-color: #ffb703;
+    margin: 50;
+  }
+.banner{
+  background-image: url("https://wmich.edu/sites/default/files/images/blog/u101/2021/xmental_health_040620.jpg.pagespeed.ic.b1xeQWQn-a.jpg");
+  width: 100%;
+  padding-top: 100px;
+  background-position:top;
+  background-repeat:no-repeat;
+  background-size:cover;
+  height: 700px;
+}
+h1{
+  color:black;
+  font-family:'Playfair Display', serif;
+  Font-size:150px;
+  text-align:center;
+}
+.M{
+  color:black;
+  font-family: 'Zen Antique', serif;
+  Font-size:40px;
+  text-align:center;
+}
+.heading{
+  color:#ca4a4e;
+  font-family:'Playfair Display', serif;
+  Font-size:50px;
+  text-align:center;
+  background-color: #85d9fa;
+}
+.video{
+  text-align: center;
+}
+.meaning{
+  color:#e01a4f;
+  font-family:'Playfair Display', serif;
+  Font-size:25px;
+  text-align:center;
+}
+.important{
+  color:#e01a4f;
+  font-family:'Playfair Display', serif;
+  Font-size:25px;
+  text-align:center;
+  padding-left: 15px;
+}
+  .gif{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    width:auto;
+    height:auto;
+  }
+
+body{
+  background-color: white;
+}
+.menu, .footer bar{
+  background-color: #ffb703;
+  margin: 0;
+  padding: 0px;
+  overflow: hidden;
+}
+.menu a, .footer bar a{
+display: flow-root;
+padding:  20px 20px;
+color: white;
+text-decoration: none;
+float: right;
+}
+.footer{
+  background-color: #ffb703;
+  padding:  10px 10px;
+  color: white;
+  margin: 0;
+  font-size: 15px;
+  text-align: center;
+}
+.Aboutbody{
+  background-image: url("https://uwfvoyager.com/wp-content/uploads/2021/03/unnamed-3-e1616786235531.jpg");
+  width: 100%;
+  padding-top: 100px;
+  background-position:top;
+  background-repeat:no-repeat;
+  background-size:cover;
+  height: 900px;
+}
+.four{
+  color:black;
+  font-family:'Playfair Display', serif;
+  Font-size:25px;
+  text-align:center;
+}
+.five{
+  color:black;
+  font-family:'Playfair Display', serif;
+  Font-size:20px;
+  text-align:left;
+}
+.Contactbody{
+  background-image: url("https://uwfvoyager.com/wp-content/uploads/2021/03/unnamed-3-e1616786235531.jpg");
+  width: 100%;
+  padding-top: 100px;
+  background-position:top;
+  background-repeat:no-repeat;
+  background-size:cover;
+  height: 700px;
+}
+.h1{
+  color:black;
+  font-family:'Playfair Display', serif;
+  Font-size:75px;
+  text-align:left;
+}
+input, textarea {
+      width: 400px;
+      margin-top: 10px;
+      Padding: 20px;
+      Font-size: 18px;
+}
+.three{
+  color:#6d6875;
+  font-family:'Playfair Display', serif;
+  Font-size:25px;
+  text-align:left;
+}
+.submit{
+      Background-color:#e01a4f;
+      Color: black;
+}
+.helpbody{
+  background-image: url("https://uwfvoyager.com/wp-content/uploads/2021/03/unnamed-3-e1616786235531.jpg");
+  width: 100%;
+  padding-top: 100px;
+  background-position:top;
+  background-repeat:no-repeat;
+  background-size:cover;
+  height: 700px;
+}
+.six{
+  color:#black;
+  font-family:'Playfair Display', serif;
+  Font-size:30px;
+  text-align:left;
+}
